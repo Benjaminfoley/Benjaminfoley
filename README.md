@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: foleybe@oregonstate.edu
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I love talking to people 
+- 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="500"/>
+</div>
